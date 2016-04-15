@@ -2,13 +2,13 @@
     "name": "agnaldo/mvc",
     "require": {
         "php": ">=5.4",
-        
+        "swiftmailer/swiftmailer": "^5.4"
     },
     "minimum-stability": "alpha",
     "authors": [
         {
-            "name": "Agnaldo",
-            "email": "agnaldobernardojunior@yahoo.com.br"
+            "name": "agnaldo",
+            "email": "agnaldo@codemeker.com.br"
         }
     ],
     "autoload": {
