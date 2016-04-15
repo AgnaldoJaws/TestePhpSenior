@@ -1,0 +1,22 @@
+{
+    "name": "agnaldo/mvc",
+    "require": {
+        "php": ">=5.4",
+        
+    },
+    "minimum-stability": "alpha",
+    "authors": [
+        {
+            "name": "Agnaldo",
+            "email": "agnaldobernardojunior@yahoo.com.br"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+          "App\\": "src/App"
+        }
+    },
+    "config": {
+        "bin-dir": "bin"
+    }
+}
